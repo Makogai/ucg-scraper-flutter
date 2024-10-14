@@ -1,0 +1,6 @@
+{
+  "appTitle": "ucg_scraper",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
